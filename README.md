@@ -11,5 +11,5 @@
 📫 Feel free to connect with me 
 - Website: [aeserna.com](https://aeserna.com)
 - Email: [allanserna@gatech.edu](mailto:allanserna@gatech.edu)
-- LinkedIn: [allan-serna](https://www.linkedin.com/allan-serna)
+- LinkedIn: [allan-serna](https://www.linkedin.com/in/allan-serna)
 - Twitter: [@allaneserna](https://www.twitter.com/allaneserna)
