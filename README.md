@@ -3,11 +3,12 @@
 
 😄  A little about me...
 - I am currently a Software Engineer at [Cisco Webex](https://www.webex.com/)
+- Part-time [OMSCS](https://omscs.gatech.edu/current-courses) graduate student
+
 - Former Software Development Engineer at [Michaels](https://www.michaels.com/) 
 - Freelanced with start-ups, [Scholars](https://hirescholars.com/) and [TallySight](https://tallysight.com/)
 - Former Intern for [New Balance](https://newbalance.com/) and [Dispersive Networks](https://dispersive.io/)
 - Georgia Tech graduate
-- Part-time [OMSCS](https://omscs.gatech.edu/current-courses) graduate student
 
 
 📫  Feel free to connect with me 
